@@ -1,0 +1,110 @@
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article>
+      <h1>{{ .Title }}</h1>
+      <table>
+        <tbody>
+          {{ with .Params.biblio_authors }}
+          <tr>
+            <th>Authors</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+          
+          {{ with .Params.biblio_publication_type }}
+          <tr>
+            <th>Publication Type</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+
+          {{ with .Params.biblio_original_publication }}
+          <tr>
+            <th>Publication</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+
+          {{ with .Params.biblio_publication_year }}
+          <tr>
+            <th>Publication Year</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+
+          {{ with .Params.biblio_volume }}
+          <tr>
+            <th>Volume</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+
+          {{ with .Params.biblio_number }}
+          <tr>
+            <th>Number</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+
+          {{ with .Params.biblio_pagination }}
+          <tr>
+            <th>Pages</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+
+          {{ with .Params.biblio_url }}
+          <tr>
+            <th>URL</th>
+            <td><a href="{{ . }}">{{ . }}</a></td>
+          </tr>
+          {{ end }}
+
+          {{ with .Params.biblio_doi }}
+          <tr>
+            <th>DOI</th>
+            <td><a href="https://doi.org/{{ . }}">{{ . }}</a></td>
+          </tr>
+          {{ end }}
+          
+          {{ with .Params.biblio_isbn }}
+          <tr>
+            <th>ISBN</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+          
+          {{ with .Params.biblio_issn }}
+          <tr>
+            <th>ISSN</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+          
+          {{ with .Params.biblio_published_place }}
+          <tr>
+            <th>Publication location</th>
+            <td>{{ . }}</td>
+          </tr>
+          {{ end }}
+        </tbody>
+      </table>
+
+      <div>{{ .Content }}</div>
+      <h2>Referenced by</h2>
+      <ul>
+        {{ $key := .File.BaseFileName }}
+        {{ range site.RegularPages }}
+          {{ if in (slice "comment" "problem") .Type }}
+
+            {{ if findRE (printf "%s" $key) .RawContent }}
+            {{ $problem := printf "/problem/%s" .Params.problem_id }}
+            {{ $problemPage := site.GetPage $problem }}
+            <li><a href="{{ $problemPage.Permalink }}">{{ $problemPage.Title }}</a></li>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      </ul>    
+    </article>
+  </div>
+{{ end }}
