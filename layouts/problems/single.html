@@ -1,0 +1,33 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <p><strong>Question Number:</strong> {{ .Params.question_number }}</p>
+  <p><strong>Tags:</strong> {{ range .Params.tags }}<span>{{ . }}</span>{{ end }}</p>
+  <div>{{ .Content }}</div>
+
+  {{ if .Params.images }}
+    <div class="images">
+      {{ range .Params.images }}
+        <img src="{{ . }}" alt="">
+      {{ end }}
+    </div>
+  {{ end }}
+
+  {{ if .Params.comments }}
+    <section class="comments">
+      <h2>Comments</h2>
+      <ul>
+        {{ range .Params.comments }}
+          {{ $c := site.GetPage (printf "/comments/%s.md" .) }}
+          {{ if $c }}
+            <li>
+              <strong>{{ $c.Params.author }}</strong> ({{ $c.Params.date }}):
+              <div>{{ $c.Content }}</div>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </section>
+  {{ end }}
+</article>
+{{ end }}

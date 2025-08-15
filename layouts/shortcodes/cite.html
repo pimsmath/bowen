@@ -1,0 +1,9 @@
+{{ $key := .Get 0 }}
+{{ $page := .Page }}
+
+
+{{ $existing := $page.Scratch.Get "cites" | default (slice) }}
+{{ $updated := $existing | append $key }}
+{{ $page.Scratch.Set "cites" $updated }}
+
+<a href="{{ printf "/biblio/%s/" $key | relURL }}">[{{ $key }}]</a>

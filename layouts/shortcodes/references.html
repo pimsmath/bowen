@@ -1,0 +1,22 @@
+{{/* layouts/shortcodes/references.html */}}
+{{ $keys := .Page.Scratch.Get "cites" | default (slice) }}
+{{ $keys = uniq $keys }}
+
+{{ if gt (len $keys) 0 }}
+<ol>
+  {{ range $key := $keys }}
+    {{ $refPage := site.GetPage (printf "/biblio/%s" $key) }}
+    {{ if $refPage }}
+      <li id="ref-{{ $key }}">
+        <a href="{{ $refPage.RelPermalink }}">
+          {{ with $refPage.Params.author }}{{ . }}, {{ end }}
+          {{ with $refPage.Params.year }}{{ . }}. {{ end }}
+          {{ $refPage.Title }}
+        </a>
+      </li>
+    {{ else }}
+      <li>[Missing reference: {{ $key }}]</li>
+    {{ end }}
+  {{ end }}
+</ol>
+{{ end }}
