@@ -12,7 +12,25 @@ is presented along with these comments on its current status. To
 view a problem and previously entered comments, simply click on the problem
 number below.
 
-Acknowledgements: Many thanks to Caroline Series for scanning in the notebook
+<div class="figure-side-by-side">
+
+{{< figure
+  src="/images/RufusBowen.jpg"
+  alt="A photograph of Rufus Bowen"
+  caption="Rufus Bowen, from the Oberwolfach Photo Collection. Copyright George M. Bergman, Berkeley released under the terms of the GNU Free Documentation License."
+  class="ma0 w-40 f7"
+>}}
+
+{{< figure
+  src="/images/RufusPage1.jpg"
+  alt="The first page of Rufus Bowen's notebook"
+  caption="High resolution images of each page are available as in PDF and JPG format."
+  class="ma0 w-40 f7"
+>}}
+
+</div>
+
+_Acknowledgements: Many thanks to Caroline Series for scanning in the notebook
 and to Francois Ledrappier for TeX’ing up the problems and inputting the first
-set of comments.
+set of comments._
 

@@ -6,12 +6,16 @@ theme = 'ananke'
 [taxonomies]
   tag = 'tags'
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [markup.goldmark.extensions.passthrough]
 enable = true
 [markup.goldmark.extensions.passthrough.delimiters]
   block = [['\[', '\]'], ['$$', '$$']]
   inline = [['\(', '\)'], ['$', '$']]
 [params]
+  custom_css = ["custom.css"]
   math = true
   background_color_class = "bg-dark-blue"
   read_more_copy = "View this problem"

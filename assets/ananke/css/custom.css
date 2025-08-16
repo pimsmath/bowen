@@ -1,0 +1,8 @@
+.figures-side-by-side {
+  display: flex;
+  gap: 1rem;
+}
+
+.figures-side-by-side figure {
+  flex: 1;
+}
