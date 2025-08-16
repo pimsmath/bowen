@@ -4,24 +4,28 @@
       {{- .Content -}}
     </section>
     <section class="flex-ns mt5 flex-wrap justify-around">
-      <table>
-        <tbody>
-          <tr>
-            <th>Citation Key</th>
-            <th>Title</th>
-            <th>Authors</th>
-            <th>Year</th>
-          </tr>
-          {{ range .Pages }}
-            <tr>
-              <td>{{ with .Params.key }}{{ . }}{{ end }}</td>
-              <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
-              <td>{{ with .Params.biblio_authors }}{{ . }}{{ end }}</td>
-              <td>{{ with .Params.biblio_publication_year }}{{ . }}{{ end }}</td>
-            </tr>
-          {{ end }}
-        </tbody>
-      </table>
+      <div class="pa4">
+        <div class="overflow-auto">
+          <table class="f6 w-100 mw8 center" cellspacing="0">
+            <tbody class="lh-copy">
+              <tr>
+                <th class="fw6 bb b--black-20 tl pb3 pr3">Citation Key</th>
+                <th class="fw6 bb b--black-20 tl pb3 pr3">Title</th>
+                <th class="fw6 bb b--black-20 tl pb3 pr3">Authors</th>
+                <th class="fw6 bb b--black-20 tl pb3 pr3">Year</th>
+              </tr>
+              {{ range .Pages }}
+                <tr>
+                  <td class="pv3 pr3 bb b--black-20">{{ with .Params.key }}{{ . }}{{ end }}</td>
+                  <td class="pv3 pr3 bb b--black-20"><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+                  <td class="pv3 pr3 bb b--black-20">{{ with .Params.biblio_authors }}{{ . }}{{ end }}</td>
+                  <td class="pv3 pr3 bb b--black-20">{{ with .Params.biblio_publication_year }}{{ . }}{{ end }}</td>
+                </tr>
+              {{ end }}
+            </tbody>
+          </table>
+        </div>
+      </div>
     </section>
   </article>
 {{ end }}

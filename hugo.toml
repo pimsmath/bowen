@@ -13,8 +13,10 @@ enable = true
   inline = [['\(', '\)'], ['$', '$']]
 [params]
   math = true
-  background_color_class = "bg-light-blue"
+  background_color_class = "bg-dark-blue"
   read_more_copy = "View this problem"
+  site_log = "images/logo.svg"
+
 [menus]
   [[menus.main]]
     name = 'Problems'
