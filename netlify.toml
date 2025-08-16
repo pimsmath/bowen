@@ -28,3 +28,402 @@
 [[redirects]]
 from = "/problems/*"
 to = "/problem/:splat"
+[[redirect]]
+from = "/content/volume-growth-and-entropy"
+to = "/biblio/yomdin1987volume/"
+[[redirect]]
+from = "/content/possible-jumps-entropy-interval-maps"
+to = "/biblio/misiurewicz2001jumps/"
+[[redirect]]
+from = "/content/intrinsic-ergodicity-smooth-interval-maps"
+to = "/biblio/buzzi1997intrinsic/"
+[[redirect]]
+from = "/content/asymptotic-h-expansiveness-rate-cinfty-maps"
+to = "/biblio/burguet2015entropyRate/"
+[[redirect]]
+from = "/content/local-complexity-growth-iterations-real-analytic-mappings-and-semicontinuity-moduli-entropy"
+to = "/biblio/yomdin1991analytic/"
+[[redirect]]
+from = "/content/diffeomorphism-without-any-measure-maximal-entropy"
+to = "/biblio/misiurewicz1973NoMME/"
+[[redirect]]
+from = "/content/fixed-point-index-symplectic-maps"
+to = "/biblio/554/"
+[[redirect]]
+from = "/content/removing-index-zero-singularities-c1-small-perturbations"
+to = "/biblio/553/"
+[[redirect]]
+from = "/content/stability-compact-leaves-foliations"
+to = "/biblio/552/"
+[[redirect]]
+from = "/content/bound-fixed-point-index-area-preserving-map-applications-mechanics"
+to = "/biblio/551/"
+[[redirect]]
+from = "/content/ergodic-group-automorphisms-and-specification"
+to = "/biblio/LindSpecification/"
+[[redirect]]
+from = "/content/core-dimension-group-constraints-factors-sofic-shifts"
+to = "/biblio/TrowWilliams1996/"
+[[redirect]]
+from = "/content/representations-toral-automorphisms"
+to = "/biblio/SchmidtToral/"
+[[redirect]]
+from = "/content/symbolic-representations-nonexpansive-group-automorphisms"
+to = "/biblio/LindenstraussSchmidt2005/"
+[[redirect]]
+from = "/content/unique-ergodicity-equicontinuous-laminations"
+to = "/biblio/MR2743829/"
+[[redirect]]
+from = "/content/specification-synchronisation-verage-length"
+to = "/biblio/bertrand1986specification/"
+[[redirect]]
+from = "/content/equivalence-gibbs-and-equilibrium-states-homeomorphisms-satisfying-expansiveness-and"
+to = "/biblio/HaydnRuelle1992/"
+[[redirect]]
+from = "/content/equilibrium-states-piecewise-monotonic-transformations"
+to = "/biblio/HK82-ETDS/"
+[[redirect]]
+from = "/content/ergodic-properties-invariant-measures-piecewise-monotonic-transformations-0"
+to = "/biblio/HK82-Z/"
+[[redirect]]
+from = "/content/entropy-equilibrium-measures-continuous-piecewise-monotonic-maps"
+to = "/biblio/Buzzi2004/"
+[[redirect]]
+from = "/content/equilibrium-states-beyond-specification-and-bowen-property"
+to = "/biblio/CT13/"
+[[redirect]]
+from = "/content/equilibrium-states-beta-transformations-and-related-transformations"
+to = "/biblio/Walters1978/"
+[[redirect]]
+from = "/content/boundaries-markov-partitions"
+to = "/biblio/AshleyKitchensStafford1992/"
+[[redirect]]
+from = "/content/topological-entropy-noncompact-sets"
+to = "/biblio/bowen1973topological/"
+[[redirect]]
+from = "/content/symbolic-dynamics"
+to = "/biblio/Kitchens1998book/"
+[[redirect]]
+from = "/content/introduction-symbolic-dynamics-and-coding"
+to = "/biblio/LindMarcus1995/"
+[[redirect]]
+from = "/content/local-product-structure-expansive-homeomorphisms"
+to = "/biblio/ABP09/"
+[[redirect]]
+from = "/content/expansive-homeomorphisms-and-hyperbolic-diffeomorphisms-3-manifolds"
+to = "/biblio/Vieitez96/"
+[[redirect]]
+from = "/content/expansive-homeomorphisms-surfaces"
+to = "/biblio/Lewowicz89/"
+[[redirect]]
+from = "/content/expansive-diffeomorphisms-surfaces-are-pseudo-anosov"
+to = "/biblio/Hiraide90/"
+[[redirect]]
+from = "/content/every-borel-automorphism-without-finite-invariant-measures-admits-two-set-generator"
+to = "/biblio/hochman2015borel/"
+[[redirect]]
+from = "/content/almost-borel-structure-diffeomorphisms-some-hyperbolicity"
+to = "/biblio/buzzi2015almost/"
+[[redirect]]
+from = "/content/isomorphism-and-embedding-borel-systems-full-sets"
+to = "/biblio/hochman2013full/"
+[[redirect]]
+from = "/content/open-problems-symbolic-dynamics"
+to = "/biblio/Boyle2008open/"
+[[redirect]]
+from = "/content/isolated-invariant-sets-and-morse-index-0"
+to = "/biblio/MR511133/"
+[[redirect]]
+from = "/content/flow-equivalence-shifts-finite-type-positive-factorizations"
+to = "/biblio/MR1907894/"
+[[redirect]]
+from = "/content/flow-equivalence-subshifts-finite-type"
+to = "/biblio/MR758893/"
+[[redirect]]
+from = "/content/periodic-points-maps-disk-and-interval"
+to = "/biblio/MR0431282/"
+[[redirect]]
+from = "/content/measure-rigidity-and-disintegration-time-one-maps-flows"
+to = "/biblio/PonceVarao/"
+[[redirect]]
+from = "/content/ergodic-theory-foliations-and-theorem-sacksteder"
+to = "/biblio/hurder1988ergodic/"
+[[redirect]]
+from = "/content/classifying-foliations"
+to = "/biblio/hurder2009classifying/"
+[[redirect]]
+from = "/content/differentiability-rigidity-and-godbillon-vey-classes-anosov-flows"
+to = "/biblio/hurderkatok1991anosovflows/"
+[[redirect]]
+from = "/content/flots-danosov-dont-les-feuilletages-stables-sont-diff%C3%A9rentiables"
+to = "/biblio/ghys1987flotsanosov/"
+[[redirect]]
+from = "/content/markov-partitions-two-dimensional-hyperbolic-billiards"
+to = "/biblio/bunimovich1990markov/"
+[[redirect]]
+from = "/content/coding-sequence-density-estimation-topological-pressure"
+to = "/biblio/MR3294965/"
+[[redirect]]
+from = "/content/ergodicity-billiard-flows-and-quadratic-differentials"
+to = "/biblio/KMS86/"
+[[redirect]]
+from = "/content/resolving-maps-and-dimension-group-shifts-finite-type"
+to = "/biblio/boyle1987resolving/"
+[[redirect]]
+from = "/content/topological-entropy-and-equivalence-dynamical-systems"
+to = "/biblio/adler1979topological/"
+[[redirect]]
+from = "/content/lower-entropy-factors-sofic-systems"
+to = "/biblio/boyle1983lower/"
+[[redirect]]
+from = "/content/bernoulli-equilibrium-states-axiom-diffeomorphisms"
+to = "/biblio/bowen1974bernoulli/"
+[[redirect]]
+from = "/content/smooth-partitions-anosov-diffeomorphisms-are-weak-bernoulli"
+to = "/biblio/bowen1975smooth/"
+[[redirect]]
+from = "/content/introduction-homological-algebra"
+to = "/biblio/hu1968introduction/"
+[[redirect]]
+from = "/content/method-calculating-codon-frequencies-dna"
+to = "/biblio/goel1972method/"
+[[redirect]]
+from = "/content/entropy-expansive-maps"
+to = "/biblio/bowen1972entropy/"
+[[redirect]]
+from = "/content/periodic-points-ergodic-toral-automorphisms"
+to = "/biblio/marcus1980periodic/"
+[[redirect]]
+from = "/content/survey-noncommutative-dynamical-entropy"
+to = "/biblio/stormer2002survey/"
+[[redirect]]
+from = "/content/entropie-g%C3%A9om%C3%A9trique-des-feuilletages"
+to = "/biblio/ghys1988entropie/"
+[[redirect]]
+from = "/content/anosov-flows-and-dynamical-zeta-functions"
+to = "/biblio/giulietti2012anosov/"
+[[redirect]]
+from = "/content/introduction-infinite-ergodic-theory"
+to = "/biblio/aaronson1997introduction/"
+[[redirect]]
+from = "/content/entropy-and-localization-eigenfunctions-appear-ann"
+to = "/biblio/anantharaman2006entropy/"
+[[redirect]]
+from = "/content/nonuniform-hyperbolicity-c-1-generic-diffeomorphisms"
+to = "/biblio/abdenur2011nonuniform/"
+[[redirect]]
+from = "/content/new-examples-smooth-ergodic-theory-ergodic-diffeomorphisms"
+to = "/biblio/katok1970new/"
+[[redirect]]
+from = "/content/conditions-under-which-geodesic-flow-anosov"
+to = "/biblio/bolton1979conditions/"
+[[redirect]]
+from = "/content/entropies-et-rigidit%C3%A9s-des-espaces-localement-sym%C3%A9triques-de-courbure-strictement-n%C3%A9gative"
+to = "/biblio/besson1995entropies/"
+[[redirect]]
+from = "/content/hausdorff-dimension-quasi-circles"
+to = "/biblio/bowen1979hausdorff/"
+[[redirect]]
+from = "/content/homology-zero-dimensional-nonwandering-sets"
+to = "/biblio/bowen1977homology/"
+[[redirect]]
+from = "/content/amenable-equivalence-relations-and-construction-ergodic-averages-group-actions"
+to = "/biblio/bowen2015amenable/"
+[[redirect]]
+from = "/content/ergodic-theory-axiom-flows"
+to = "/biblio/bowen1975ergodic/"
+[[redirect]]
+from = "/content/almost-borel-structure-surface-diffeomorphisms-markov-shifts-and-their-factors"
+to = "/biblio/boyle2014almost/"
+[[redirect]]
+from = "/content/bernoulli-diffeomorphisms-and-group-extensions-dynamical-systems-non-zero-characteristic"
+to = "/biblio/brin1981bernoulli/"
+[[redirect]]
+from = "/content/intrinsic-ergodicity-beyond-specification-beta-shifts-s-gap-shifts-and-their-factors"
+to = "/biblio/climenhaga2012intrinsic/"
+[[redirect]]
+from = "/content/spectral-analysis-morse-smale-gradient-flows"
+to = "/biblio/dang2016spectral/"
+[[redirect]]
+from = "/content/decay-correlations-anosov-flows"
+to = "/biblio/dolgopyat1998decay/"
+[[redirect]]
+from = "/content/prevalence-rapid-mixing-hyperbolic-flows"
+to = "/biblio/dolgopyat1998prevalence/"
+[[redirect]]
+from = "/content/limit-theorems-partially-hyperbolic-systems"
+to = "/biblio/dolgopyat2004limit/"
+[[redirect]]
+from = "/content/isolating-blocks-and-epsilon-chains-maps"
+to = "/biblio/easton1989isolating/"
+[[redirect]]
+from = "/content/homology-and-dynamical-systems"
+to = "/biblio/franks1982homology/"
+[[redirect]]
+from = "/content/period-doubling-and-lefschetz-formula"
+to = "/biblio/franks1985period/"
+[[redirect]]
+from = "/content/shift-equivalence-and-conley-index"
+to = "/biblio/franks2000shift/"
+[[redirect]]
+from = "/content/existence-morse%E2%80%93smale-diffeomorphisms"
+to = "/biblio/franks1981existence/"
+[[redirect]]
+from = "/content/c2-kupka-smale-diffeomorphism-disk-no-sources-or-sinks"
+to = "/biblio/franks1981c2/"
+[[redirect]]
+from = "/content/geometry-cross-sections-flows"
+to = "/biblio/fried1982geometry/"
+[[redirect]]
+from = "/content/meromorphic-zeta-functions-analytic-flows"
+to = "/biblio/fried1995meromorphic/"
+[[redirect]]
+from = "/content/finitely-presented-dynamical-systems"
+to = "/biblio/fried1987finitely/"
+[[redirect]]
+from = "/content/constructions-elliptic-dynamics"
+to = "/biblio/fayad2004constructions/"
+[[redirect]]
+from = "/content/inertial-manifolds-nonlinear-evolutionary-equations"
+to = "/biblio/foias1988inertial/"
+[[redirect]]
+from = "/content/semiclassical-approach-ruelle-pollicott-spectrum-hyperbolic-dynamics"
+to = "/biblio/faure2014semiclassical/"
+[[redirect]]
+from = "/content/topological-invariants-dynamical-systems-and-spaces-holomorphic-maps-i"
+to = "/biblio/gromov1999topological/"
+[[redirect]]
+from = "/content/three-remarks-geodesic-dynamics-and-fundamental-group"
+to = "/biblio/gromov2000three/"
+[[redirect]]
+from = "/content/entropy-holomorphic-maps"
+to = "/biblio/gromov2003entropy/"
+[[redirect]]
+from = "/content/foliations-ergodic-theorem-and-brownian-motion"
+to = "/biblio/garnett1983foliations/"
+[[redirect]]
+from = "/content/expansivity-pseudoleaf-tracing-property-and-semistability-foliations"
+to = "/biblio/inaba2000expansivity/"
+[[redirect]]
+from = "/content/periodic-orbits-and-classical-quantization-conditions"
+to = "/biblio/gutzwiller1971periodic/"
+[[redirect]]
+from = "/content/anisotropic-kepler-problem-two-dimensions"
+to = "/biblio/gutzwiller1973anisotropic/"
+[[redirect]]
+from = "/content/sur-la-conjugaison-diff%C3%A9rentiable-des-diff%C3%A9omorphismes-du-cercle-%C3%A0-des-rotations"
+to = "/biblio/herman1979conjugaison/"
+[[redirect]]
+from = "/content/ergodic-properties-invariant-measures-piecewise-monotonic-transformations"
+to = "/biblio/hofbauer1982ergodic/"
+[[redirect]]
+from = "/content/every-compact-manifold-carries-hyperbolic-bernoulli-flow"
+to = "/biblio/hu2004every/"
+[[redirect]]
+from = "/content/some-convexity-questions-arising-statistical-mechanics"
+to = "/biblio/israel1984some/"
+[[redirect]]
+from = "/content/lyapunov-exponents-entropy-and-periodic-orbits-diffeomorphisms"
+to = "/biblio/katok1980lyapunov/"
+[[redirect]]
+from = "/content/subsystems-topological-markov-chains"
+to = "/biblio/krieger1982subsystems/"
+[[redirect]]
+from = "/content/dimension-functions-and-topological-markov-chains"
+to = "/biblio/krieger1980dimension/"
+[[redirect]]
+from = "/content/almost-specification-and-average-shadowing-properties"
+to = "/biblio/kulczycki2013almost/"
+[[redirect]]
+from = "/content/smooth-counterexample-seifert-conjecture"
+to = "/biblio/kuperberg1994smooth/"
+[[redirect]]
+from = "/content/volume-preserving-counterexample-seifert-conjecture"
+to = "/biblio/kuperberg1996volume/"
+[[redirect]]
+from = "/content/conservative-anosov-diffeomorphisms-two-torus-without-absolutely-continuous-invariant"
+to = "/biblio/kosloff2014conservative/"
+[[redirect]]
+from = "/content/dynamical-properties-quasihyperbolic-toral-automorphisms"
+to = "/biblio/lind1982dynamical/"
+[[redirect]]
+from = "/content/entropy-conjecture-diffeomorphisms-away-tangencies"
+to = "/biblio/gang2010entropy/"
+[[redirect]]
+from = "/content/hausdorff-dimension-and-conformal-dynamics-i-strong-convergence-kleinian-groups"
+to = "/biblio/mcmullen1999hausdorff/"
+[[redirect]]
+from = "/content/hyperbolicity-sinks-and-measure-one-dimensional-dynamics"
+to = "/biblio/mane1985hyperbolicity/"
+[[redirect]]
+from = "/content/gibbs-and-equilibrium-measures-some-families-subshifts"
+to = "/biblio/meyerovitch2013gibbs/"
+[[redirect]]
+from = "/content/topological-entropy-and-degree-smooth-mappings"
+to = "/biblio/misiurewicz1977topological/"
+[[redirect]]
+from = "/content/leray-functor-and-cohomological-conley-index-discrete-dynamical-systems"
+to = "/biblio/mrozek1990leray/"
+[[redirect]]
+from = "/content/continuity-properties-entropy"
+to = "/biblio/newhouse1989continuity/"
+[[redirect]]
+from = "/content/ergodic-theory-amenable-group-actions-i-rohlin-lemma"
+to = "/biblio/ornstein1980ergodic/"
+[[redirect]]
+from = "/content/entropy-and-isomorphism-theorems-actions-amenable-groups"
+to = "/biblio/ornstein1987entropy/"
+[[redirect]]
+from = "/content/dynamical-representations-nilmanifolds"
+to = "/biblio/parry1973dynamical/"
+[[redirect]]
+from = "/content/intrinsic-ergodicity-and-weakenings-specification-property"
+to = "/biblio/pavlov2016intrinsic/"
+[[redirect]]
+from = "/content/foliations-measure-preserving-holonomy"
+to = "/biblio/plante1975foliations/"
+[[redirect]]
+from = "/content/anosov-flows"
+to = "/biblio/plante1972anosov/"
+[[redirect]]
+from = "/content/zeta-functions-and-periodic-orbit-structure-hyperbolic-dynamics"
+to = "/biblio/parry1990zeta/"
+[[redirect]]
+from = "/content/equilibrium-states-negative-curvature"
+to = "/biblio/paulin2012equilibrium/"
+[[redirect]]
+from = "/content/homology-theory-smale-spaces"
+to = "/biblio/putnam2014homology/"
+[[redirect]]
+from = "/content/weak-mixing-suspension-flows-over-shifts-finite-type-are-universal"
+to = "/biblio/quas2011weak/"
+[[redirect]]
+from = "/content/dynamical-systems-shape-theory-and-conley-index"
+to = "/biblio/robbin1988dynamical/"
+[[redirect]]
+from = "/content/markov-tilings-r-and-representations-r-actions"
+to = "/biblio/rudolph1989markov/"
+[[redirect]]
+from = "/content/foliations-polynomial-growth-are-hyperfinite"
+to = "/biblio/series1979foliations/"
+[[redirect]]
+from = "/content/closed-orbits-homology-classes-anosov-flows"
+to = "/biblio/sharp1993closed/"
+[[redirect]]
+from = "/content/expanding-endomorphisms-circle-revisited"
+to = "/biblio/shub1985expanding/"
+[[redirect]]
+from = "/content/classification-nuclear-c-algebras-entropy-operator-algebras"
+to = "/biblio/rordam2002classification/"
+[[redirect]]
+from = "/content/spectrum-ruelle-operator-and-exponential-decay-correlations-open-billiard-flows"
+to = "/biblio/stoyanov2001spectrum/"
+[[redirect]]
+from = "/content/dominated-splitting-and-pesins-entropy-formula"
+to = "/biblio/sun2010dominated/"
+[[redirect]]
+from = "/content/conley-index-discrete-semidynamical-systems"
+to = "/biblio/szymczak1995conley/"
+[[redirect]]
+from = "/content/closing-lemma-interval"
+to = "/biblio/young1979closing/"
