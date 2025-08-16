@@ -1,0 +1,9 @@
+<ul class="pa0 tr">
+  {{ range .GetTerms "tags" }}
+   <li class="list di">
+     <a href="{{ .RelPermalink }}" class="link f6 grow br-pill ba ph2 pv1 mb1 dib black sans-serif no-underline">
+       {{- .LinkTitle -}}
+     </a>
+   </li>
+  {{ end }}
+</ul>

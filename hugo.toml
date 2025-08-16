@@ -13,9 +13,8 @@ enable = true
   inline = [['\(', '\)'], ['$', '$']]
 [params]
   math = true
-
   background_color_class = "bg-light-blue"
-
+  read_more_copy = "View this problem"
 [menus]
   [[menus.main]]
     name = 'Problems'
@@ -26,4 +25,3 @@ enable = true
     pageRef = '/biblio/'
     weight = 20
 
-  
