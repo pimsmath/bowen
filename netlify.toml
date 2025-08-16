@@ -21,8 +21,8 @@
     debug = true
 
 [[redirects]]
-  from = "/problems/1"
-  to = "/problem/1"
+  from = "/citation-links"
+  to = "/biblio"
   status = 301
 
 [[redirects]]
