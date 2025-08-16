@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    {{ .Content }}
+
+    <section class="flex-ns mt2 flex-wrap justify-around">
+      {{ $pages := where .Site.RegularPages "Section" "problem" }}
+      {{ range $pages.Reverse }}
+        <div class="w-100 mb4 relative bg-white">
+          {{ .Render "summary" }}
+        </div>
+      {{ end }}
+    </section>
+  </article>
+{{ end }}
+
