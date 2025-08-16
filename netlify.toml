@@ -25,3 +25,6 @@
   to = "/problem/1"
   status = 301
 
+[[redirects]]
+from = "/problems/*"
+to = "/problem/:splat"
