@@ -1,7 +1,7 @@
 ---
 problem_id: problem-86
-author: BrianMarcus
-date: '2017-07-06T12:54:31-07:00'
+author: David Ruelle
+date: '2017-05-27T09:52:12-07:00'
 ---
-Weyl has been change to Weil.
+Problem 86: Weyl should be Weil.
 

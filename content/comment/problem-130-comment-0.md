@@ -1,7 +1,8 @@
 ---
 problem_id: problem-130
-author: Mike Boyle
-date: '2017-07-06T16:28:38-07:00'
+author: rpotrie
+date: '2017-02-18T05:07:24-08:00'
 ---
-Also see \cite{Hiraide1990}.
+See Lewowicz, Jorge. Expansive homeomorphisms of surfaces. Bol. Soc. Brasil.
+Mat. (N.S.) 20 (1989), no. 1, 113--133.
 

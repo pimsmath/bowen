@@ -1,7 +1,7 @@
 ---
 problem_id: problem-110
-author: David Ruelle
-date: '2017-05-27T09:54:46-07:00'
+author: BrianMarcus
+date: '2017-07-06T12:56:34-07:00'
 ---
-Problem 110: Weyl should be Weil.
+Weyl has been changed to Weil.
 

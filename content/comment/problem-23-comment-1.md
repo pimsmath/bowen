@@ -1,10 +1,10 @@
 ---
 problem_id: problem-23
-author: rpotrie
-date: '2017-06-23T13:59:56-07:00'
+author: shub
+date: '2017-07-10T10:44:31-07:00'
 ---
-Is the following an answer to this? M.Shub and D.Sulivan, Homology and
-dynamical systems, Topology 14 (1975), 109-132. (see also Chapter 4 in J.
-Franks, Homology and dynamical systems, CBMS Regional Conference Series in
-Mathematics Volume: 49; 1982; 120 pp.)
+Maller,M and M.Shub, The Integral Homology of Smale Diffeomorphisms Topology,
+Vol. 24 (1985) pp. 153-164 may be relevant. The paper considers when Axiom A
+no cycles diffeorphisms with zero dimensional omega may be isotoped to omega
+conjugate fitted examples.
 

@@ -1,10 +1,9 @@
 ---
 problem_id: problem-35
-author: Anthonyquas
-date: '2016-12-01T22:09:27-08:00'
+author: Mike Boyle
+date: '2017-07-27T16:33:30-07:00'
 ---
-Lemma 2.1 of this paper shows a specification-like property provided the gaps
-between specified blocks grow sub-linearly in the lengths of the orbit
-segments that are being constrained. (For ordinary specification, these gaps
-are of constant length).
+The ergodic nonhyperbolic toral automorphisms do not admit covers by shifts of
+finite type, but there are other symbolic representations. See {{< cite
+LindenstraussSchmidt2005 >}}.
 

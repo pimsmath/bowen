@@ -1,8 +1,8 @@
 ---
 problem_id: problem-69
-author: Ledrappier
-date: '2016-11-14T16:48:20-08:00'
+author: crovisier
+date: '2017-06-27T12:23:06-07:00'
 ---
-{{< cite newhouse1989continuity >}}: yes, for $r = \infty $, see {{< cite
-abdenur2011nonuniform >}} or related stuff for $r =1$?
+Yes also on surfaces for any r>1 (using Katok's horseshoe theorem). To my
+knowledge, the case r=1 is open.
 

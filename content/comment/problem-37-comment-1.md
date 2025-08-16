@@ -1,7 +1,8 @@
 ---
 problem_id: problem-37
-author: Ledrappier
-date: '2016-11-14T13:57:39-08:00'
+author: crovisier
+date: '2017-06-27T11:58:15-07:00'
 ---
-{{< cite newhouse1989continuity >}} for $C^\infty $ metrics, right?
+The geodesic flow for C∞ metrics is asymptotically h-expansive, but not
+h-expansive in general (there may be elliptic islands with positive entropy).
 

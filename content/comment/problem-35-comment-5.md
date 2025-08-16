@@ -1,7 +1,12 @@
 ---
 problem_id: problem-35
-author: Ledrappier
-date: '2016-11-14T13:51:34-08:00'
+author: Douglas Lind
+date: '2017-07-30T08:00:46-07:00'
 ---
-Not really; cf {{< cite lind1982dynamical >}}
+A complete description of the specification properties of ergodic toral
+automorphisms is given in "Ergodic group automorphisms and specification",
+Douglas Lind, Springer Lecture Notes in Mathematics 729 (1978), 93-104. Toral
+automorphisms come in three flavors, depending on the behavior on the
+generalized eigenspace for eigenvalues of modulus one (if any), and the
+specification behavior is different for each flavor.
 

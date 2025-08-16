@@ -1,16 +1,11 @@
 ---
 problem_id: problem-80
 author: tfisher
-date: '2017-07-07T09:41:17-07:00'
+date: '2017-07-07T09:06:04-07:00'
 ---
-For higher dimensions there are partial classifications. For expansive
-homeomorphisms of compact 3-manifolds with dense topologically hyperbolic
-periodic points the manifold is the 3-torus and the expansive homeomorphism is
-conjugate to an Anosov diffeomorphism {{< cite Vieitez96 >}}. For the general
-higher dimensional setting if an expansive homeomorphism has dense
-topologically hyperbolic periodic points, then there exists a local product
-structure for the homeomorphism on an open and dense set in the manifold.
-Furthermore, if a hyperbolic periodic point for the expansive homeomorphism is
-codimension-one, then the expansive homeomorphism is conjuage to a hyperbolic
-toral automorphism {{< cite ABP09 >}}.
+For surfaces it was shown by {{< cite Hiraide90 >}} and {{< cite Lewowicz89
+>}} that there are no expansive homeomorphisms on the 2-sphere, that any
+expansive homeomorphism of the 2-torus is conjugate to an Anosov
+diffeomorphism, and for higher genus surfaces the expanisve homeomorphism is
+conjuage to a pseudo-Anosov homeomorphism.
 

@@ -1,7 +1,9 @@
 ---
 problem_id: problem-100
-author: BrianMarcus
-date: '2016-11-14T17:17:26-08:00'
+author: Daniel J Thompson
+date: '2017-07-20T08:46:39-07:00'
 ---
-It looks like there is some reference to "Newhouse Lorentz''
+Mark Pollicott and I are looking at the original notebook and we think it
+seems to say: "Symbolic dynamics for (illegible word beginning with A), Smale,
+Newhouse, Lorentz"
 

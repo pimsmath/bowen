@@ -1,8 +1,9 @@
 ---
 problem_id: problem-11
-author: rpotrie
-date: '2017-06-13T18:16:46-07:00'
+author: Steve Hurder
+date: '2017-06-24T04:55:07-07:00'
 ---
-See the introduction of https://arxiv.org/pdf/1505.06259.pdf for a quick
-account on results about classification of Anosov flows in dimension 3.
+The geodesic flow for a variable, non-constant negative curvature surface is
+never $C^2$ conjugate to a constant curvature flow. See the papers by
+[ghys1987flotsanosov] and [hurderkatok1991anosovflows].
 

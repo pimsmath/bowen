@@ -1,7 +1,11 @@
 ---
 problem_id: problem-134
-author: Ledrappier
-date: '2016-11-14T17:51:00-08:00'
+author: jathreya
+date: '2017-08-01T12:27:43-07:00'
 ---
-(For part 1.) Hardly legible. Wild guess here. Don't see what that means.
+In the setting where $G = SL(2, \mathbb R)$, Yitwah Cheung and I built a
+section to the horocycle flow for $\Gamma = SL(2, \mathbb Z)$, and with Jon
+Chaika and Samuel Lelievre built one for $\Gamma = \Delta(2, 5, \infty)$. This
+construction was generalized by Uyanik-Work, and Sarig-Schmoll showed how to
+realize the horocycle flow as a suspension flow over an adic transformation.
 

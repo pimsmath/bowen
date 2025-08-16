@@ -1,10 +1,7 @@
 ---
 problem_id: problem-21
-author: tfisher
-date: '2017-07-03T10:23:47-07:00'
+author: Ledrappier
+date: '2016-11-14T11:47:01-08:00'
 ---
-Ponce and Varao {{< cite PonceVarao >}} recently proved a rigidity result that
-characterizes when an invariant measure for the time-1 map of a flow will be
-invariant measure for the flow. Surprisingly, the result is very general and
-does not require hyperbolic properties for the flow.
+No, cf {{< cite quas2011weak >}}
 

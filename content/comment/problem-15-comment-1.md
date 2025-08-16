@@ -1,7 +1,9 @@
 ---
 problem_id: problem-15
 author: Ledrappier
-date: '2016-11-14T11:43:06-08:00'
+date: '2016-11-14T11:43:16-08:00'
 ---
-I suppose he meant speed or quality of mixing, but I like this word!
+Somehow understood now: see {{< cite dolgopyat1998decay >}}, {{< cite
+dolgopyat1998prevalence >}},{{< cite stoyanov2001spectrum >}} among others.
+Nice to have a short survey here as well!
 

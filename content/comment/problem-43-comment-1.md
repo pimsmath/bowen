@@ -1,7 +1,7 @@
 ---
 problem_id: problem-43
-author: BrianMarcus
-date: '2016-11-14T15:01:14-08:00'
+author: Vaughn Climenhaga
+date: '2017-07-15T11:46:20-07:00'
 ---
-see Meyerovitch {{< cite meyerovitch2013gibbs >}}
+{{< cite HaydnRuelle1992 >}} seems relevant.
 

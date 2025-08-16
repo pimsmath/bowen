@@ -1,8 +1,9 @@
 ---
 problem_id: problem-28
-author: rpotrie
-date: '2017-02-18T05:04:31-08:00'
+author: bonatti
+date: '2017-06-17T15:44:40-07:00'
 ---
-See M. Herman, Construction d'un diffeomorphisme minimale d'entropie nulle,
-Erg. Theory and Dyn. Syst. 1 (1981) 65-76
+In dimension >2 the answer is "no": the product of any diffeomorphism f by an
+irrational rotation (or translation) as no periodic points, hence is Kupka-
+Smale, but has the same entropy as f (hence it can be >0).
 

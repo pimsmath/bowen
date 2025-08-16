@@ -1,8 +1,8 @@
 ---
 problem_id: problem-20
-author: siamak
-date: '2016-12-31T15:32:09-08:00'
+author: LCioletti
+date: '2017-07-27T08:03:07-07:00'
 ---
-Does "continuous" refer to continuous actions, as in a system of particles in
-$\mathbb{R}^d$?
+It is also possible that he was asking about continous spins systems on
+discrete lattices, as for example XY and Heisenberg models.
 

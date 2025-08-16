@@ -1,7 +1,8 @@
 ---
 problem_id: problem-7
-author: Ledrappier
-date: '2016-11-10T11:51:48-08:00'
+author: BrianMarcus
+date: '2016-11-10T11:54:00-08:00'
 ---
-In c. words in italics were added
+(For part e.) The problem here is to decide, in terms of $A$ and $R$ as above,
+when the quotient space $\Omega$ is a manifold.
 
