@@ -1,0 +1,15 @@
+<div class="gallery-item">
+{{ $src := .Get "src" }}
+{{ $highres := .Get "highres" }}
+{{ $caption := .Get "caption" }}
+{{ with .Parent }}
+  <a href="{{ $highres | relURL }}" data-glightbox="title: {{ $caption }}">
+    <img src="{{ $src }}" class="{{ .Get "class" }}">
+  </a>
+{{ else }}
+  <img src="{{ $src }}">
+{{ end }}
+{{ if $caption }}
+  <div class="gallery-caption">{{ $caption }}</div>
+{{ end }}
+</div>

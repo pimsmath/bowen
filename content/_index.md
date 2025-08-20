@@ -1,6 +1,7 @@
 ---
 title: "Rufus Bowen's Notebook"
 ---
+
 This website is dedicated to the memory of Rufus Bowen (1947-1978). On it, you
 will find an interface to the 157 mathematical problems he left behind in his
 notebook. This website was created to support [conference on Rufus' mathematical
@@ -11,6 +12,7 @@ by allowing users to enter comments. Each problem has been deciphered and
 is presented along with these comments on its current status. To
 view a problem and previously entered comments, simply click on the problem
 number below.
+
 
 <div class="figure-side-by-side">
 
@@ -24,7 +26,7 @@ number below.
 {{< figure
   src="/images/RufusPage1.jpg"
   alt="The first page of Rufus Bowen's notebook"
-  caption="High resolution images of each page are available as in PDF and JPG format."
+  caption="High resolution images of each page are available in [PDF](RufusNotebook.pdf) and [JPG](/notebook/) format."
   class="ma0 w-40 f7"
 >}}
 
