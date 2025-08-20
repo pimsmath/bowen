@@ -30,4 +30,8 @@ enable = true
     name = 'Bibliography'
     pageRef = '/biblio/'
     weight = 20
+  [[menus.main]]
+    name = 'Gallery'
+    pageRef = '/notebook/'
+    weight = 30
 
