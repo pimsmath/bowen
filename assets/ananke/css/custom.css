@@ -1,10 +1,19 @@
 .figures-side-by-side {
   display: flex;
-  gap: 1rem;
+  gap: 4rem;
+  justify-content: center;
 }
 
 .figures-side-by-side figure {
-  flex: 1;
+    display: table;
+    margin-block: 0;
+    margin-inline: 0;
+}
+
+.figures-side-by-side figcaption {
+    display: table-caption;
+    caption-side: bottom;
+    margin-block-start: .5rem;
 }
 
 .gallery-item {

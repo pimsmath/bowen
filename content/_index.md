@@ -19,8 +19,8 @@ number below.
 {{< figure
   src="/images/RufusBowen.jpg"
   alt="A photograph of Rufus Bowen"
-  caption="Rufus Bowen, from the Oberwolfach Photo Collection. Copyright George M. Bergman, Berkeley released under the terms of the GNU Free Documentation License."
-  class="ma0 w-40 f7"
+  caption="Rufus Bowen, from the [Oberwolfach Photo Collection](http://owpdb.mfo.de/). Copyright George M. Bergman, Berkeley released under the terms of the [GNU Free Documentation License](https://en.wikipedia.org/wiki/en:GNU_Free_Documentation_License)."
+  class="f6"
 >}}
 
 {{< figure

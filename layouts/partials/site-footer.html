@@ -3,7 +3,7 @@
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
     &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
   </a>
-    <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+    <div>This site is a project of the <a href="https://pims.math.ca" target="_blank">Pacific Institute for the Mathematical Sciences (PIMS)</a>. &copy; {{ now.Format "2006"}}</div>
   </div>
   <script src="{{ "/lightbox/js/glightbox.min.js" | relURL }}"></script>
   <script>

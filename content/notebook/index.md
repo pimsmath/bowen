@@ -1,5 +1,4 @@
 ---
-title: Rufus Bowen's notebook
 ---
 
 Rufus' notebook was [scanned to PDF](../RufusNotebook.pdf) by Caroline Series. The

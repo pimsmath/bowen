@@ -14,12 +14,13 @@ enable = true
 [markup.goldmark.extensions.passthrough.delimiters]
   block = [['\[', '\]'], ['$$', '$$']]
   inline = [['\(', '\)'], ['$', '$']]
+
 [params]
   custom_css = ["custom.css","glightbox.min.css"]
   math = true
-  background_color_class = "bg-dark-blue"
+  background_color_class = "bg-white"
   read_more_copy = "View this problem"
-  site_log = "images/logo.svg"
+  site_logo = "images/logo.svg"
 
 [menus]
   [[menus.main]]
